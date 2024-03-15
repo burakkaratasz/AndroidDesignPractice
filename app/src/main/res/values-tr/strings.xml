@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidDesignPractice</string>
+    <string name="pizzaTitle">Margarita</string>
+    <string name="cheeseText">Peynir</string>
+    <string name="sausageText">Domates</string>
+    <string name="oliveText">Zeytin</string>
+    <string name="pepperText">Nane</string>
+    <string name="timeText">20 dk</string>
+    <string name="deliveryText">Teslimat</string>
+    <string name="deliveryTitle">Pizzanla buluşmak için hazır ol!</string>
+    <string name="costText">150₺</string>
+    <string name="cartText">SEPETE EKLE</string>
+</resources>

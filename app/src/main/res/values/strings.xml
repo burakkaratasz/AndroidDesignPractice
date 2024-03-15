@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AndroidDesignPractice</string>
+    <string name="pizzaTitle">Margherita</string>
+    <string name="cheeseText">Cheese</string>
+    <string name="sausageText">Tomato</string>
+    <string name="oliveText">Olive</string>
+    <string name="pepperText">Mint</string>
+    <string name="timeText">20 min</string>
+    <string name="deliveryText">Delivery</string>
+    <string name="deliveryTitle">Margarita Lover, get ready to meet your pizza!</string>
+    <string name="costText">$ 5.98</string>
+    <string name="cartText">ADD TO CART</string>
 </resources>

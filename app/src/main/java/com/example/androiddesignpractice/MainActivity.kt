@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //yazılım kısmında R harfi res klasörünü temsil eder
         // Xml kısmında @ işareti res klasörünü temsil eder
+        // Left - Start - Leading
+        // Right - End - Trailing
     }
 }
